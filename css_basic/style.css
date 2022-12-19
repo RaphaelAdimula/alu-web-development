@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    color:rgb(20, 20, 26)
+
+}
+main{
+    display: flex;
+    flex-direction: row;
+    flex:auto
+}
+main article{
+    flex:2;
+    overflow-y: auto;
+    background-color: rgb(119, 13, 13);
+
+}
+main aside{
+    flex: 1;
+    overflow-y: auto;
+    background-color: aqua;
+}
+class logo{
+    
+}
