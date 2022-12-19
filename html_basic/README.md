@@ -1,0 +1,1 @@
+skeleton like for web
